@@ -1,0 +1,19 @@
+img{
+  height: 400px;
+  
+}
+.car1d{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+ 
+}
+.card{
+  margin: 10px;
+}
+.container{
+  display: grid;
+}
+footer p {
+  color: white;
+  padding: 40px;
+}
